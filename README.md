@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Parmar from India</h1>
-<h2 align="center">A passionate Web Developer and Data Analyst</h2>
+<h2 align="center">A passionate Machine Learning Developer and Web Developer</h2>
 
 
 - 🌱 I’m currently learning **Python, Web Application Development and Machine Learning**
