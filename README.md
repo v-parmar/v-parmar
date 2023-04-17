@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Parmar from India</h1>
-<h2 align="center">A passionate Python Software Developer with expertice in Python, Machine Learning, Web data scraping and Front-end development</h2>
+<h2 align="center">A passionate Python Software Developer with expertise in Python, Machine Learning, Web data scraping and Front-end development</h2>
 
 ## 💫 About Me:
 
