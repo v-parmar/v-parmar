@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishal Parmar from India</h1>
-<h2 align="center">A passionate Machine Learning Developer and Web Developer</h2>
+<h2 align="center">A passionate Python Software Developer with expertice in Python, Machine Learning, Web data scraping and Front-end development</h2>
 
 ## 💫 About Me:
 
-- 🌱 I’m currently working on **Python, Machine Learning and Web Application Development**
+- 🌱 I’m currently working on **Python, Machine Learning, Web data scraping and Front-end development**
 
-- 👯 I’m looking to collaborate on **Python, Machine Learning, Front-End Web Development and Bootstrap**
+- 👯 I’m looking to collaborate on **Python, Machine Learning, and Front-End Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/v-parmar](https://github.com/v-parmar)
 
